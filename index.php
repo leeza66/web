@@ -1,3 +1,3 @@
 ﻿<?php
-echo "buk za nar ma";
+echo "buk za nar mahhuhu";
 ?>
